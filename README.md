@@ -84,6 +84,7 @@ B.Tech – Computer Science and Engineering
 GDG on Campus, Karunya — *September 2025*
 
 Developed an AI-based solution using modern Generative AI technologies to solve real-world problems.
+
 🥈 **Third Place — Intero Fest**  
 An Inter College Hackathon, Shri Shakthi College of Engineering — *february 2026*
 
