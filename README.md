@@ -1,144 +1,150 @@
-# 🚀 Rhenius Abraham R
+<h1 align="center">Hi 👋, I'm Rhenius Abraham R</h1>
 
 <p align="center">
-  <b>AI Engineer | Automation Developer | Applied AI Builder</b>
+AI Engineer • Automation Developer • Applied AI Builder
 </p>
 
 <p align="center">
-  📍 Coimbatore, India  
-  <br>
-  📧 rhenius.abraham@gmail.com | 📞 +91 7470047400
+Building intelligent AI systems, automation workflows, and scalable AI-driven solutions.
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">GitHub</a> •
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
+<a href="https://github.com/RheniusAbraham">
+<img src="https://img.shields.io/badge/GitHub-RheniusAbraham-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/rhenius-abraham-r-08a535292/">
+<img src="https://img.shields.io/badge/LinkedIn-Rhenius%20Abraham-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:rhenius.abraham@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+<p align="center">
+📍 Coimbatore, India
 </p>
 
 ---
 
-## 👨‍💻 Summary
+# About Me
 
-Passionate Computer Science student focused on building practical AI systems and intelligent automation tools. Experienced in Natural Language Processing, workflow automation, and deploying open-source LLMs for real-world applications.
+Computer Science student at **Karunya Institute of Technology and Sciences** focused on **Artificial Intelligence and intelligent automation systems**.
 
-Strong interest in applied AI, system design, and scalable AI-driven products.
+I build practical AI applications involving **Natural Language Processing, workflow automation, and AI-driven solutions**.
+
+Interested in developing **scalable AI products and intelligent software systems**.
 
 ---
 
-## 🎓 Education
+# Education
 
 **Karunya Institute of Technology and Sciences**  
-B.Tech – Computer Science and Engineering  
-📅 2023 – 2027  
-📊 CGPA: **7.58**
+B.Tech — Computer Science and Engineering  
+
+2023 – 2027  
+CGPA: **7.58**
 
 ---
 
-## 💼 Experience
+# Experience
 
-### Artificial Intelligence Intern — Corizo  
-📅 July 2025 – August 2025
+**Artificial Intelligence Intern — Corizo**  
+July 2025 – August 2025
 
-- Worked on real-world Artificial Intelligence and Machine Learning problems
-- Performed data preprocessing and feature engineering
-- Built and evaluated ML models for classification and prediction tasks
-- Implemented solutions using Python and industry-standard ML libraries
-
----
-
-## 🧠 Skills
-
-### 🤖 AI / Machine Learning
-- NLP
-- Transformers
-- DistilBERT
-- Retrieval Augmented Generation (RAG)
-- Edge AI
-- Model Deployment
-
-### 💻 Programming
-- Python
-- Java
-
-### ⚙️ Automation & Tools
-- n8n
-- Ollama
-- Git
-- Linux
-
-### 🔗 Backend & Systems
-- API Integration
-- Workflow Automation
-- Vector Databases
-
-### 🧩 Concepts
-- Autonomous Systems
-- Robotics Fundamentals
-- System Design
+- Worked on real-world **AI and Machine Learning applications**
+- Performed **data preprocessing and feature engineering**
+- Built **classification and prediction models using Python**
+- Implemented ML solutions using industry libraries
 
 ---
 
-## 🏆 Achievements
+# Technical Skills
 
-🥈 **Second Place — Gemini Buildathon**  
-GDG on Campus, Karunya — *September 2025*
+### AI / Machine Learning
+NLP • Transformers • DistilBERT • RAG • Edge AI • Model Deployment
 
-Developed an AI-based solution using modern Generative AI technologies to solve real-world problems.
+### Programming
+Python • Java
 
-🥈 **Third Place — Intero Fest**  
-An Inter College Hackathon, Shri Shakthi College of Engineering — *february 2026*
+### Tools
+n8n • Ollama • Git • Linux
 
-Developed an AI-ML based project using modern AI technologies.
+### Backend
+API Integration • Workflow Automation • Vector Databases
+
 ---
 
-## 🚀 Projects
+# Technologies
 
-### 🔹 AI Automation Workflow for Equipment Leasing Company
-Built an end-to-end AI automation system to streamline order processing and customer communication.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,git,linux" />
+</p>
 
-**Key Features**
+---
+
+# Projects
+
+### AI Automation Workflow for Equipment Leasing Company
+End-to-end AI automation system for order processing and customer communication.
+
+Features:
 - Call transcription
 - Data extraction
-- Automated actionable reports
+- Automated report generation
 - NLP-based workflow automation
 
 ---
 
-### 🔹 VishingGuard — Voice Call Phishing Detection System
-Developed an AI-based scam call detection system using Speech-to-Text and DistilBERT.
+### VishingGuard — Voice Call Phishing Detection System
+AI-based scam call detection system using **Speech-to-Text and DistilBERT classification**.
 
-**Key Features**
-- Dataset pipeline design
+Features:
+- Dataset pipeline
 - NLP classification
 - Real-time prediction workflow
 
 ---
 
-### 🔹 Car Mechanic Conversational Assistant
-Built a domain-specific conversational AI chatbot to diagnose vehicle issues and recommend troubleshooting solutions through interactive conversations.
+### Car Mechanic Conversational Assistant
+Domain-specific conversational AI assistant that diagnoses vehicle issues and suggests troubleshooting solutions.
 
 ---
 
-## 🛠 Tech Interests
+# Achievements
 
-- Applied Artificial Intelligence
-- Intelligent Automation Systems
-- Generative AI Applications
-- AI Product Development
-- Scalable System Design
+🥈 **Second Place — Gemini Buildathon**  
+GDG on Campus, Karunya — September 2025
+
+🥉 **Third Place — Intero Fest Hackathon**  
+Shri Shakthi College of Engineering — February 2026
 
 ---
 
-## 📫 Contact
+# GitHub Activity
 
-📧 Email: rhenius.abraham@gmail.com  
-📍 Location: Coimbatore, India  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RheniusAbraham&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-🔗 GitHub: https://github.com/RheniusAbraham 
-🔗 LinkedIn: https://www.linkedin.com/in/rhenius-abraham-r-08a535292/  
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RheniusAbraham&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# Contact
+
+📧 Email: **rhenius.abraham@gmail.com**  
+📍 Location: **Coimbatore, India**
+
+GitHub  
+https://github.com/RheniusAbraham  
+
+LinkedIn  
+https://www.linkedin.com/in/rhenius-abraham-r-08a535292/
 
 ---
 
 <p align="center">
-⭐ Always exploring AI-driven innovation and intelligent systems
+⭐ Exploring AI-driven innovation and building intelligent systems
 </p>
